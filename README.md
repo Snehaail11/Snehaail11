@@ -1,2 +1,2 @@
- Hi, I’m @Snehaail11 I am a 2nd year data science student 
+ Hi, I’m @Snehaail11 I am a 3rd year data science student 
 
