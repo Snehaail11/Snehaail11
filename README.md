@@ -15,10 +15,10 @@ I'm passionate about turning raw data into meaningful insights that drive inform
 
 ## 📁 Featured Projects
 
-| Project | Description | Tools | Live Demo |
+| Project | Description | Tools | Link |
 |--------|-------------|-------|-----------|
-| **🔍 Data Cleaning in SQL** | Cleaned and structured a raw layoff dataset to prepare it for analysis. | SQL | [View Summary](https://github.com/Snehaail11/mysqldataclean) |
-| **📈 EDA on Layoffs** | Performed exploratory analysis on tech layoffs using SQL queries and aggregations. | SQL | [View Summary](https://github.com/Snehaail11/eda) |
+| **🔍 Data Cleaning in SQL** | Cleaned and structured a raw layoff dataset to prepare it for analysis. | SQL | [View Project](https://github.com/Snehaail11/mysqldataclean) |
+| **📈 EDA on Layoffs** | Performed exploratory analysis on tech layoffs using SQL queries and aggregations. | SQL | [View Project](https://github.com/Snehaail11/eda) |
 | **📊 Power BI Survey Dashboard** | Interactive dashboard analyzing the data professional landscape. | Power BI | [View Project](https://github.com/Snehaail11/surveypb) |
 | **📉 Excel Sales Dashboard** | Sales insights and KPIs visualized using PivotTables and charts. | Excel  | [View Project](https://github.com/Snehaail11/bikesales) |
 | **🏠 Real Estate in Tableau** | Dynamic Tableau dashboard analyzing property listings. | Tableau | [View Project](https://public.tableau.com/app/profile/sneha.ail/viz/ListingsTableauFullProject_17475792595120/Dashboard1) |
