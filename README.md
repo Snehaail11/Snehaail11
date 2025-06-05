@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sneha Ail
 
-🎓 Data Science Graduate | 📊 Aspiring Data Analyst | 💡 Lifelong Learner  
+ Data Science Graduate | 📊 Aspiring Data Analyst & Business Analyst | Python,SQL,Excel,PowerBi,Tableau,MLDL
 
-I'm passionate about turning raw data into meaningful insights that drive informed decisions. With hands-on experience in SQL, Power BI, Tableau, Excel, and Python, I love solving problems through data and creating visually appealing dashboards that tell a story.
+I love solving problems through data and creating visually appealing dashboards that tell a story.
 
 ---
 
