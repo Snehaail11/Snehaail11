@@ -16,9 +16,9 @@
 
 I'm interested in understanding how people think and make decisions, and using that to build better, more practical products.
 
-With a background in data science, I work at the intersection of data, AI, and product—turning ideas into tools that people can actually use.
+With a background in data science, I’m particularly interested in working at the intersection of data, AI, and product—turning insights into solutions that are practical and user-focused.
 
-My work includes building systems for **fraud detection**, **demand forecasting**, and **credit risk prediction**, where I focused on solving real-world business problems using data. During my internship, I contributed to the development of an internal data platform, working across both technical implementation and product decision-making.
+During my internship, I worked on developing an internal data platform, where I contributed to both the technical implementation and product decisions.
 
 Currently, I'm focused on building AI-driven, user-centric applications that combine data insights with practical usability.
 
